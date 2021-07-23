@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sivaprasadtenkala
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Robotics Projects
 - 📫 How to reach me : Contact No: +91-8019701380, E-mail: sivaprasadtenkala@gmail.com
 
 <!---
