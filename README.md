@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sivaprasadtenkala
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Robotics Projects
+- 🌱 I’m currently exploring Deep Learning
+- 💞️ I’m looking to collaborate on Robotics / Research Projects
 - 📫 How to reach me : Contact No: +91-8019701380, E-mail: sivaprasadtenkala@gmail.com
+- Projects and practice work will be updated soon.
 
 <!---
 Sivaprasadtenkala/Sivaprasadtenkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
